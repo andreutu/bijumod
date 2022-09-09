@@ -34,9 +34,11 @@ credits="Ideea lu kasma si silvuk ca sunt smekeri" #optional
 authors="andreutu" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Modu asta nu adauga multe chestii, dar e misto.
-De la andreutu catre silvuk si kasma.
-Biju e TOP.
+====== (EN) ======
+Bijumod is a mod dedicated to a few of my friends. It adds 8 paintings with cat pictures, and weed that you can grow, which you can make joints out of it.
+
+====== (RO) ======
+Bijumod este un mod dedicat pentru cativa prieteni. Adauga 8 tablouri cu pisici, si iarba pe care o poti creste, din care iti poti face jointuri.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.bijumod]] #optional
