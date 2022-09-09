@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:large_fern"
+    }
+  ],
+  "addition": "bijumod:weed",
+  "type": "bijumod:weed_from_large_fern"
+}
