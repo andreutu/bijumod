@@ -1,0 +1,66 @@
+{
+  "vine_vara": {
+    "sounds": [
+      {
+        "name": "bijumod:vine_vara",
+        "stream": true
+      }
+    ]
+  },
+  "buna_dimineata": {
+    "sounds": [
+      {
+        "name": "bijumod:buna_dimineata",
+        "stream": true
+      }
+    ]
+  },
+  "pe_cimpoi": {
+    "sounds": [
+      {
+        "name": "bijumod:pe_cimpoi",
+        "stream": true
+      }
+    ]
+  },
+  "zilele_mele": {
+    "sounds": [
+      {
+        "name": "bijumod:zilele_mele",
+        "stream": true
+      }
+    ]
+  },
+  "chef_de_chef": {
+    "sounds": [
+      {
+        "name": "bijumod:chef_de_chef",
+        "stream": true
+      }
+    ]
+  },
+  "la_inima": {
+    "sounds": [
+      {
+        "name": "bijumod:la_inima",
+        "stream": true
+      }
+    ]
+  },
+  "_112": {
+    "sounds": [
+      {
+        "name": "bijumod:_112",
+        "stream": true
+      }
+    ]
+  },
+  "ma_insor": {
+    "sounds": [
+      {
+        "name": "bijumod:ma_insor",
+        "stream": true
+      }
+    ]
+  }
+}

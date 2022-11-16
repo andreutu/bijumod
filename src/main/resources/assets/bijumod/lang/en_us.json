@@ -1,4 +1,30 @@
 {
   "item.bijumod.weed": "Weed",
-  "item.bijumod.joint": "Joint"
+  "item.bijumod.joint": "Joint",
+
+  // ======= MUSIC DISCS =======
+  "item.bijumod.music_disc_vine_vara": "Music Disc",
+  "item.bijumod.music_disc_vine_vara.desc": "Nicolae Guta - Vine Vara",
+  // ============================
+  "item.bijumod.music_disc_buna_dimineata": "Music Disc",
+  "item.bijumod.music_disc_buna_dimineata.desc": "Liviu Guta - Buna Dimineata",
+  // ============================
+  "item.bijumod.music_disc_pe_cimpoi": "Music Disc",
+  "item.bijumod.music_disc_pe_cimpoi.desc": "Sandu Ciorba - Pe Cimpoi",
+  // ============================
+  "item.bijumod.music_disc_zilele_mele": "Music Disc",
+  "item.bijumod.music_disc_zilele_mele.desc": "Adrian Minune - Asa Sunt Zilele Mele",
+  // ============================
+  "item.bijumod.music_disc_chef_de_chef": "Music Disc",
+  "item.bijumod.music_disc_chef_de_chef.desc": "Adrian Minune - Chef De Chef",
+  // ============================
+  "item.bijumod.music_disc_la_inima": "Music Disc",
+  "item.bijumod.music_disc_la_inima.desc": "Florin Salam - La Inima M-ai Ranit",
+  // ============================
+  "item.bijumod.music_disc_112": "Music Disc",
+  "item.bijumod.music_disc_112.desc": "Formatia Cercel - 112",
+  // ============================
+  "item.bijumod.music_disc_ma_insor": "Music Disc",
+  "item.bijumod.music_disc_ma_insor.desc": "Florinel - Ma Insor La Anul In Mai"
+
 }

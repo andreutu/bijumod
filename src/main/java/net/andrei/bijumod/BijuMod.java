@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import net.andrei.bijumod.block.ModBlocks;
 import net.andrei.bijumod.item.ModItems;
 import net.andrei.bijumod.painting.ModPaintings;
+import net.andrei.bijumod.sound.ModSounds;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.world.level.block.Blocks;
@@ -31,6 +32,7 @@ public class BijuMod {
         ModItems.register(eventBus);
         ModPaintings.register(eventBus);
         ModBlocks.register(eventBus);
+        ModSounds.register(eventBus);
 
         eventBus.addListener(this::setup);
         eventBus.addListener(this::clientSetup);
